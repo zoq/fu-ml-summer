@@ -1,0 +1,7 @@
+box2d-py
+pygame
+keras
+tensorflow
+gym[atari]
+nes-py
+gym-super-mario-bros
