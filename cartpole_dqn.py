@@ -139,7 +139,7 @@ def main():
         if reward <= 199.0:
             print("Failed to complete in trial: " + str(trial) + " reward: " + str(cur_reward))
         else:
-            print("Completed in trial: " + str(trail) + " reward: " + str(cur_reward))
+            print("Completed in trial: " + str(trial) + " reward: " + str(cur_reward))
             test(dqn_agent)
             break
 
